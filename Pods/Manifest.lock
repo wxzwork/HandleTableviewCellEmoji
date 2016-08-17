@@ -1,0 +1,10 @@
+PODS:
+  - MLLabel (1.9.1)
+
+DEPENDENCIES:
+  - MLLabel
+
+SPEC CHECKSUMS:
+  MLLabel: 086ecaa4101505c166950cff986a3edcbcfb1c27
+
+COCOAPODS: 0.39.0

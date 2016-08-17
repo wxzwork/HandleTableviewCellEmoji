@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>:arrow:</key>
+	<string>icon_arrow.png</string>
+	<key>:grin:</key>
+	<string>icon_biggrin.png</string>
+	<key>:!:</key>
+	<string>icon_exclaim.png</string>
+	<key>:?:</key>
+	<string>icon_question.png</string>
+	<key>:cool:</key>
+	<string>icon_cool.png</string>
+	<key>:roll:</key>
+	<string>icon_rolleyes.png</string>
+	<key>:eek:</key>
+	<string>icon_eek.png</string>
+	<key>:evil:</key>
+	<string>icon_evil.png</string>
+	<key>:razz:</key>
+	<string>icon_razz.png</string>
+	<key>:mrgreen:</key>
+	<string>icon_mrgreen.png</string>
+	<key>:smile:</key>
+	<string>icon_smile.png</string>
+	<key>:oops:</key>
+	<string>icon_redface.png</string>
+	<key>:lol:</key>
+	<string>icon_lol.png</string>
+	<key>:mad:</key>
+	<string>icon_mad.png</string>
+	<key>:twisted:</key>
+	<string>icon_twisted.png</string>
+	<key>:wink:</key>
+	<string>icon_wink.png</string>
+	<key>:idea:</key>
+	<string>icon_idea.png</string>
+	<key>:cry:</key>
+	<string>icon_cry.png</string>
+	<key>:shock:</key>
+	<string>icon_surprise.png</string>
+	<key>:neutral:</key>
+	<string>icon_neutral.png</string>
+	<key>:sad:</key>
+	<string>icon_sad.png</string>
+	<key>:???:</key>
+	<string>icon_confused.png</string>
+</dict>
+</plist>
